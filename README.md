@@ -1,15 +1,13 @@
 
-# Run Buddy
+# Code Refactor Horiseon
+## Code starter
 
-## Purpose
-A website that offers fitness training services.
+Refactoring the code to add online presence, improve accesibility and make sure all the links are working. 
 
-## Built With
-* HTML
-* CSS
+Clean the code to make it lighter, easier to read and avoid duplication.
 
-## Website
-https://lernantino.github.io/run-buddy/
+Open inedx.html
 
-## Contribution
-Made with ❤️ by Xunaxidonita
+Changes to the html tags to update to html5 conventions
+
+Changes to the style.css to make it cleaner and compact.
